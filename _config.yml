@@ -1,10 +1,8 @@
 title: GWANHYO MYUNG
-author: GitHub User
-email: your-email@domain.com
+author: GWNHYO MYUNG
+email: ganyo888@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  © 2019 Gwanhyo Myung. All rights reserved.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,13 +13,13 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    # twitter: jekyllrb
+    # github:  jekyll
+    # rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
+     facebook: gwanhyo
     # flickr:   jekyll
-    # instagram: jekyll
+     instagram: gwanhyo
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
