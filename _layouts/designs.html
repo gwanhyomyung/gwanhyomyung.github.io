@@ -12,11 +12,13 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
+      {%- if post.category == "design" -%}
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">
           <img src="{{site.baseurl}}/images/{{ post.thumbnail }}" style="width: 100%;">
         </a>
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
 
