@@ -1,4 +1,4 @@
-title: GWANHYO MYUNG
+title: GWANHYO
 author: GWNHYO MYUNG
 email: ganyo888@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -17,7 +17,7 @@ minima:
     # github:  jekyll
     # rss: rss
     # dribbble: jekyll
-     facebook: gwanhyo
+    # facebook: gwanhyo
     # flickr:   jekyll
      instagram: gwanhyo
     # linkedin: jekyll
@@ -47,3 +47,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# show future time posts
+future: true
